@@ -1,0 +1,14 @@
+metric,attacks,counted,harmful_pretrained,harmful_retrained,rises_retrained,reach_first,last,last_best_rank,avg_rank_of_7
+EN,48,17,13,14,0,"DCEvo,LUTFuse,MMDRFuse,SeAFusion",LUTFuse,1,7
+SD,48,15,8,7,1,"DCEvo,LUTFuse,MMDRFuse,SeAFusion",MMDRFuse,1,7
+SF,48,26,13,18,2,"CDDFuse,DCEvo,EMMA,MMDRFuse,SeAFusion",MMDRFuse,1,7
+AG,48,26,16,19,1,"CDDFuse,DCEvo,LUTFuse,MMDRFuse,SeAFusion",MMDRFuse,1,7
+MI,48,0,0,0,0,,MMDRFuse,6,7
+SSIM,48,3,0,0,0,"CDDFuse,EMMA,MMDRFuse",MMDRFuse,1,1
+MS_SSIM,48,1,0,0,0,,LUTFuse,6,7
+CC,48,0,0,0,0,,LUTFuse,6,1
+Qabf,48,0,0,0,0,,LUTFuse,6,7
+FMI,48,1,0,0,0,,MMDRFuse,5,3
+Nabf,48,9,3,1,0,"CDDFuse,DCEvo,EMMA,MMDRFuse,SeAFusion",EMMA,1,1
+SCD,48,3,0,0,1,"MMDRFuse,SeAFusion",LUTFuse,6,6
+VIF,48,4,0,0,1,CDDFuse,LUTFuse,6,7

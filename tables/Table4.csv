@@ -1,0 +1,9 @@
+﻿Method,Parameters,GFLOPs,Time (ms),Framework
+DenseFuse,"74,193",54.1,13.8,MATLAB
+SeAFusion,"166,883",102.0,33.4,PyTorch
+CDDFuse,"1,188,272",1105,587.2,PyTorch
+EMMA,"1,517,657",80.8,28.5,PyTorch
+DCEvo,"2,004,904",1826,1031.3,PyTorch
+MMDRFuse,113,0.07,0.15,PyTorch
+LUT-Fuse,"73,361ᵃ",4.7,4.0,PyTorch
+Ours,"43,356",25.9,10.4,MATLAB

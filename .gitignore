@@ -1,0 +1,21 @@
+# datasets, third-party code and weights, and regenerated images are obtained or produced locally (see README)
+ir_vis_fusion/tmp_msrs/
+ir_vis_fusion/tmp_fmb/
+ir_vis_fusion/data/
+ir_vis_fusion/sota/
+ir_vis_fusion/results/sota/
+ir_vis_fusion/results/export2/
+ir_vis_fusion/results/ck_*.mat
+ir_vis_fusion/results/data_*pairs.mat
+fmb_raw/
+metric_sanity/stim/
+metric_sanity/data/
+metric_sanity/models/
+metric_sanity/results/**/*.pt
+metric_sanity/.venv/
+
+# environment
+__pycache__/
+*.pyc
+*.asv
+*.log

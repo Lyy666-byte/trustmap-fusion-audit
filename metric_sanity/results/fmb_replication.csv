@@ -1,0 +1,14 @@
+metric,counted_msrs,counted_fmb,replicated
+EN,21,17,True
+SD,16,15,True
+SF,23,26,True
+AG,23,26,True
+MI,0,0,
+SSIM,0,3,
+MS_SSIM,0,1,
+CC,0,0,
+Qabf,0,0,
+FMI,1,1,True
+Nabf,8,9,True
+SCD,0,3,
+VIF,2,4,True

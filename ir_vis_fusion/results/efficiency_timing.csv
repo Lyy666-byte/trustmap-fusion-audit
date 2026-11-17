@@ -1,0 +1,9 @@
+method,params,time_ms,framework
+SeAFusion,166883,33.43,PyTorch
+CDDFuse,1188272,587.16,PyTorch
+EMMA,1517657,28.49,PyTorch
+DCEvo,2004904,1031.29,PyTorch
+Ours,43356,10.41,MATLAB
+DenseFuse,74193,13.76,MATLAB
+MMDRFuse,113,0.15,PyTorch
+LUT-Fuse,73361,3.95,PyTorch

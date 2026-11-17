@@ -1,0 +1,5 @@
+config,trust_dev
+A0_single,NaN
+A1_dual_cat,NaN
+A2_cat_trust,0.729677763240597
+A3_diff_trust,0.37160699199247

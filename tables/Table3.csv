@@ -1,0 +1,5 @@
+﻿Configuration,Parameters,SSIM,Qabf,Nabf↓,MI,VIF,Trust dev.
+A0: single stream,"71,231",0.718,0.689,0.187,3.985,0.986,—
+"A1: dual, no trust map","42,071",0.724,0.684,0.131,4.357,0.989,—
+A2: trust from concatenation,"44,796",0.719,0.692,0.193,4.560,1.017,0.730
+A3: trust from difference (full),"43,356",0.724,0.680,0.134,4.358,0.991,0.372

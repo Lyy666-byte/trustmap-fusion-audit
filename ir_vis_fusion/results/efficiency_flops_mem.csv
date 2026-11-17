@@ -1,0 +1,9 @@
+method,gflops,peak_mem_mb
+SeAFusion,101.9904,
+CDDFuse,1104.9173,
+EMMA,80.8452,
+DCEvo,1825.9575,
+Ours,25.9449,
+DenseFuse,54.0574,
+MMDRFuse,0.0664,
+LUT-Fuse,4.7002,

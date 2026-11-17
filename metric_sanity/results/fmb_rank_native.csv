@@ -1,0 +1,14 @@
+metric,order,avg_rank_of_7,last
+EN,CDDFuse>EMMA>SeAFusion>DCEvo>MMDRFuse>LUTFuse,7,LUTFuse
+SD,CDDFuse>EMMA>SeAFusion>DCEvo>LUTFuse>MMDRFuse,7,MMDRFuse
+SF,LUTFuse>EMMA>CDDFuse>DCEvo>SeAFusion>MMDRFuse,7,MMDRFuse
+AG,EMMA>CDDFuse>SeAFusion>DCEvo>LUTFuse>MMDRFuse,7,MMDRFuse
+MI,DCEvo>CDDFuse>LUTFuse>EMMA>SeAFusion>MMDRFuse,7,MMDRFuse
+SSIM,DCEvo>CDDFuse>SeAFusion>EMMA>LUTFuse>MMDRFuse,1,MMDRFuse
+MS_SSIM,CDDFuse>SeAFusion>DCEvo>MMDRFuse>EMMA>LUTFuse,7,LUTFuse
+CC,MMDRFuse>CDDFuse>SeAFusion>EMMA>DCEvo>LUTFuse,1,LUTFuse
+Qabf,DCEvo>CDDFuse>SeAFusion>EMMA>MMDRFuse>LUTFuse,7,LUTFuse
+FMI,DCEvo>CDDFuse>SeAFusion>EMMA>LUTFuse>MMDRFuse,3,MMDRFuse
+Nabf,LUTFuse>MMDRFuse>DCEvo>CDDFuse>SeAFusion>EMMA,1,EMMA
+SCD,CDDFuse>SeAFusion>MMDRFuse>DCEvo>EMMA>LUTFuse,6,LUTFuse
+VIF,DCEvo>CDDFuse>EMMA>SeAFusion>MMDRFuse>LUTFuse,7,LUTFuse
